@@ -1,0 +1,15 @@
+version: 1.0
+name: ufo-tech/develop-folder
+type: skill
+title:
+    en: The .develop working folder
+    uk: Робоча папка .develop
+summary:
+    en: Creates and maintains a project's .develop folder — glossary, investigations, open questions with decisions, Jira-ready tickets and docs on how the system works.
+    uk: Створює й веде в проєкті папку .develop — глосарій, дослідження, відкриті питання з рішеннями, задачі, готові до Jira, і опис того, як працює система.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [ai-workflow, documentation, jira, project-management]

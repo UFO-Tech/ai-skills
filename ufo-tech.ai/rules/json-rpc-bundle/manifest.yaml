@@ -1,0 +1,15 @@
+version: 1.0
+name: ufo-tech/json-rpc-bundle
+type: rule
+title:
+    en: JsonRpcBundle rules
+    uk: Правила для JsonRpcBundle
+summary:
+    en: How an agent works with ufo-tech/json-rpc-bundle 10.4 — procedures, parameters, results, errors, cache, API versions and groups, events, known pitfalls and checks.
+    uk: Як агенту працювати з ufo-tech/json-rpc-bundle 10.4 — процедури, параметри, результати, помилки, кеш, версії й групи API, події, відомі пастки й перевірка результату.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [api, json-rpc, php, symfony]

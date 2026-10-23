@@ -1,0 +1,15 @@
+version: 1.0
+name: ufo-tech/ufo-code-style
+type: rule
+title:
+    en: UFO-Tech code style
+    uk: Стиль коду UFO-Tech
+summary:
+    en: The UFO-Tech team's optional PHP code style — strict typing, DTOs, thin controllers, services, early returns. For projects that adopt it.
+    uk: Необов'язковий стиль коду команди UFO-Tech для PHP — типізація, DTO, тонкі контролери, сервіси, ранні повернення. Для проєктів, що його приймають.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [code-style, php, symfony]

@@ -1,0 +1,17 @@
+version: 1.0
+name: ufo-tech/ufo-catalog
+type: skill
+title:
+    en: UFO Tech catalog — find and install
+    uk: Каталог UFO Tech — пошук і встановлення
+summary:
+    en: Teaches an agent to find skills and rules in this catalog and install them into a project or globally, with checksum verification.
+    uk: Навчає агента шукати скіли й правила в цьому каталозі та встановлювати їх у проєкт або глобально, з перевіркою контрольних сум.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [catalog, install, ai-workflow]
+# the universal variant is read from /ai/install.md by any agent, it is not installed itself
+agents: []

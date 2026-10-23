@@ -1,0 +1,15 @@
+version: 1.0
+name: ufo-tech/json-rpc-bundle-extensions
+type: rule
+title:
+    en: Rules for JsonRpcBundle extensions
+    uk: Правила для розширень JsonRpcBundle
+summary:
+    en: For packages that extend the bundle (transports, protocol adapters, integrations) — the RpcExecutor entry point, tokens, groups and versions, routes, package requirements.
+    uk: Для пакетів, що розширюють бандл (транспорти, адаптери протоколів, інтеграції) — точка входу через RpcExecutor, токени, групи й версії, маршрути, вимоги до пакета.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [api, extensions, json-rpc, php, symfony]

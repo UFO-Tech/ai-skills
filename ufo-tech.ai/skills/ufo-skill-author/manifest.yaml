@@ -1,0 +1,15 @@
+version: 1.0
+name: ufo-tech/ufo-skill-author
+type: skill
+title:
+    en: Skill author for the UFO Tech catalog
+    uk: Автор скілів для каталогу UFO Tech
+summary:
+    en: Helps create a skill or a rule for distribution through ufo-tech.space — layout, manifest.yaml, READMEs in both languages, variants for different agents and shared files without duplication.
+    uk: Допомагає створити скіл чи правило для розповсюдження через ufo-tech.space — структура, manifest.yaml, README двома мовами, варіанти для різних агентів і спільні файли без дублювання.
+authors:
+    - name: Ashterix
+support:
+    source: https://github.com/UFO-Tech/ai-skills
+    issues: https://github.com/UFO-Tech/ai-skills/issues
+tags: [ai-workflow, authoring, catalog]
